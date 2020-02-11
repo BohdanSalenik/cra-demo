@@ -1,0 +1,2 @@
+(this["webpackJsonpcra-demo"]=this["webpackJsonpcra-demo"]||[]).push([[0],{3:function(e,n,t){e.exports=t(9)},8:function(e,n,t){},9:function(e,n,t){"use strict";t.r(n);var a=t(0),r=t.n(a),c=t(2),o=t.n(c);t(8);var l=function(){return r.a.createElement("div",{className:"App"},r.a.createElement("h1",null,"Bohdan Salenik")," ")};o.a.render(r.a.createElement(l,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.8e85e2c6.chunk.js.map
