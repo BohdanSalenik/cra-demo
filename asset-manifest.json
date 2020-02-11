@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cra-demo/static/css/main.cb9e985a.chunk.css",
+    "main.css": "/cra-demo/static/css/main.4992c1c6.chunk.css",
     "main.js": "/cra-demo/static/js/main.8e85e2c6.chunk.js",
     "main.js.map": "/cra-demo/static/js/main.8e85e2c6.chunk.js.map",
     "runtime-main.js": "/cra-demo/static/js/runtime-main.b7e94f1e.js",
@@ -8,15 +8,15 @@
     "static/js/2.b1939bae.chunk.js": "/cra-demo/static/js/2.b1939bae.chunk.js",
     "static/js/2.b1939bae.chunk.js.map": "/cra-demo/static/js/2.b1939bae.chunk.js.map",
     "index.html": "/cra-demo/index.html",
-    "precache-manifest.f67994df8845ee9248a0723df492eec0.js": "/cra-demo/precache-manifest.f67994df8845ee9248a0723df492eec0.js",
+    "precache-manifest.9d7a9d6795424282a1d8c1f16bd4dcd3.js": "/cra-demo/precache-manifest.9d7a9d6795424282a1d8c1f16bd4dcd3.js",
     "service-worker.js": "/cra-demo/service-worker.js",
-    "static/css/main.cb9e985a.chunk.css.map": "/cra-demo/static/css/main.cb9e985a.chunk.css.map",
+    "static/css/main.4992c1c6.chunk.css.map": "/cra-demo/static/css/main.4992c1c6.chunk.css.map",
     "static/js/2.b1939bae.chunk.js.LICENSE.txt": "/cra-demo/static/js/2.b1939bae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b7e94f1e.js",
     "static/js/2.b1939bae.chunk.js",
-    "static/css/main.cb9e985a.chunk.css",
+    "static/css/main.4992c1c6.chunk.css",
     "static/js/main.8e85e2c6.chunk.js"
   ]
 }
